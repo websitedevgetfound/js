@@ -1,0 +1,28 @@
+/*begin-commonstyles library*//*!
+ * froala_editor v4.0.6 (https://www.froala.com/wysiwyg-editor)
+ * License https://froala.com/wysiwyg-editor/terms/
+ * Copyright 2014-2021 Froala Labs
+ */
+section#carousel_85be {
+    background-color: #fff !important;
+    color: #000;
+}
+
+ @media only screen and (min-width:320px) and (max-width:767px){
+ .u-section-1 .u-text-1 {
+    margin-left: 0px !important;
+}
+.u-custom-list li {
+    font-size: 16px;
+}
+.u-section-1 .u-text-2 {
+    text-align: center;
+}
+h4.u-form-group.u-form-text.u-text.u-text-3 {
+    text-align: center;
+}
+.u-section-1 {
+    min-height: auto !important;
+    margin-top: 0px !important;
+}
+ }
